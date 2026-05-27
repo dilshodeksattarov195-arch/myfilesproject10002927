@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdalculate",
+        "uuid": 12843676,
+        "checksum": "urci9s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
